@@ -36,3 +36,5 @@ These scripts are designed to allow the user to delete their current desktop bac
 <li>Add single click installer/uninstaller.
 </ul>
 </p>
+<p>
+With thanks to Ramesh Srinivasan of http://winhelponline.com/ for some of the code featured in these scripts.
