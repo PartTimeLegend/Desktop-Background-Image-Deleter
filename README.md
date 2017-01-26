@@ -1,6 +1,8 @@
 Desktop-Background-Image-Deleter
 ================================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc9346c5509d4f5ca416ac69beacda44)](https://www.codacy.com/app/PartTimeLegend/Desktop-Background-Image-Deleter?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/Desktop-Background-Image-Deleter&utm_campaign=badger)
+
 These scripts are designed to allow the user to delete their current desktop background, and can then manually cycle to the next one. Good for those with lots of unsorted backgrounds.
 <p>
 <b>Installation:</b>
